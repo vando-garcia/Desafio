@@ -7,14 +7,19 @@
 nav{
     width: 100%; 
     text-align: center;
+    border-style:solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: rgb(168, 167, 167);
+   
 }
 
-.menu{
+
+.menu {
     display: flex;
     
 }
 
-.menu li{
+.menu li {
     
     color: rgb(43, 21, 245);
     text-decoration: none;
@@ -22,9 +27,11 @@ nav{
     padding: 15px;
     
 }
-.menu a{
+.menu a {
     text-decoration: none;
+
 }
-.menu a:first-child{
+
+.menu a:first-child {
     margin-right: auto;
 }

@@ -1,0 +1,46 @@
+.sessao {
+    display: flex;
+    padding: 15px;
+    border-style:solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: rgb(168, 167, 167);
+
+}
+
+.not {
+    padding: 30px 40px 0px 40px;    
+    margin-right: 30px;   
+  
+}
+
+.not a {
+    list-style-type: none;
+    text-decoration: none;
+    color: green;
+
+} 
+
+.imagem {
+    height: 200px;
+    width: 200px;
+    border-radius: 11px;
+    
+}
+
+.sessao1 {
+    display: flex;
+    padding: 25px;
+    
+}
+
+.not1 {
+    padding: 10px 40px 0px 40px;    
+       
+  
+}
+
+.not1 a {
+    list-style-type: none;
+    text-decoration: none;
+    color: red;
+}
